@@ -1,4 +1,17 @@
 p {
-    font-size: 64px;
+
     color:aqua
+}
+
+body {
+    background-color: black;
+    font-size: 64px;
+}
+
+.gray {
+    color:gray;
+}
+
+#second {
+    font-style: italic;
 }
