@@ -8,6 +8,19 @@ body {
     font-size: 64px;
 }
 
+h1, h2 {
+    color: red;
+}
+
+p span {
+    text-transform: uppercase;
+    background-color: yellow;
+}
+
+.highlight {
+    color: green;
+}
+
 .gray {
     color:gray;
 }
