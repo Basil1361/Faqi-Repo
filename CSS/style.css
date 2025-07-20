@@ -1,11 +1,11 @@
 p {
 
-    color:aqua
+    color:black;
 }
 
 body {
-    background-color: black;
-    font-size: 64px;
+    background-color: whitesmoke;
+    font-size: 22px;
 }
 
 h1, h2 {
