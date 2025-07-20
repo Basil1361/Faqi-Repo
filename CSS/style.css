@@ -1,0 +1,35 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+
+    color:black;
+}
+
+body {
+    background-color: whitesmoke;
+    font-size: medium;
+    border: 1px solid black;
+}
+
+h1, h2 {
+    color: red;
+}
+
+.highlight {
+    color: blueviolet;
+    text-transform: uppercase;
+    background-color: yellow;
+}
+
+p span {
+    color: green;
+}
+
+.gray {
+    color:gray;
+}
+
+#second {
+    font-style: italic;
+}

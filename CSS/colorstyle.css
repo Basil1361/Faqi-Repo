@@ -1,0 +1,12 @@
+body {
+    color: black;
+    font-size:small;
+    font-family:'Courier New', Courier, monospace;
+    line-height: normal;
+    background
+    : rgb(228, 199, 228);
+}    
+
+p {
+    color: purple;
+}
