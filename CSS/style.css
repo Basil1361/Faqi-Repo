@@ -1,3 +1,6 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
 p {
 
     color:black;
@@ -5,19 +8,21 @@ p {
 
 body {
     background-color: whitesmoke;
-    font-size: 22px;
+    font-size: medium;
+    border: 1px solid black;
 }
 
 h1, h2 {
     color: red;
 }
 
-p span {
+.highlight {
+    color: blueviolet;
     text-transform: uppercase;
     background-color: yellow;
 }
 
-.highlight {
+p span {
     color: green;
 }
 
