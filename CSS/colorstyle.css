@@ -30,7 +30,34 @@ p {
 
 .container {
     border: 2px dashed black;
+    border-top: 2px solid black;
+    border-right: 4px dotted whitesmoke;
+    border-left: 4px dotted whitesmoke;
     font-size: 1.2 rem;
   margin: 1rem;
     padding: 1.5rem;
+}
+
+.purplebox {
+    border: 10px double purple;
+    border-top-color: blueviolet;
+    background-color: lavender;
+    margin: 1.5em 2em 3em 4em;
+    padding: 1rem;
+    outline: 5px darkslateblue solid;
+    outline-offset: -20px;
+}
+
+.circle {
+    margin: 3rem auto;
+    margin-top: 0.2rem;
+    background-color: lightskyblue;
+    width: 140px;
+    height: 130px;
+    border: 2px solid black;
+    border-radius: 200px;
+    outline: 2px solid rgb(58, 4, 36);
+    outline-offset: 0.25rem;
+    padding: 60px;
+    
 }
