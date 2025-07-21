@@ -1,0 +1,19 @@
+h2 {
+    text-decoration:wavy underline;
+}
+
+p span {
+    text-transform: uppercase;
+}
+
+p {
+    text-indent: 2rem;
+    text-align: left;
+}
+
+p {
+    line-height: 1.5rem;
+    letter-spacing: 0.25rem; 
+    font-weight:bold;
+    font-style: italic;
+}
