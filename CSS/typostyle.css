@@ -1,0 +1,37 @@
+h2 {
+    text-decoration:wavy underline;
+}
+
+p span {
+    text-transform: uppercase;
+}
+
+p {
+    text-indent: 2rem;
+    text-align: left;
+}
+
+p {
+    line-height: 1.5rem;
+    letter-spacing: 0.25rem; 
+    font-weight:bold;
+    font-style: italic;
+}
+
+a {
+    text-decoration: underline;
+    cursor: pointer;
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: rgb(83, 121, 235);
+}
+
+a:active{
+    color:red;
+}
